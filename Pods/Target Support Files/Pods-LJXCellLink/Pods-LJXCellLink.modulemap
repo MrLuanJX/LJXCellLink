@@ -1,0 +1,6 @@
+framework module Pods_LJXCellLink {
+  umbrella header "Pods-LJXCellLink-umbrella.h"
+
+  export *
+  module * { export * }
+}
